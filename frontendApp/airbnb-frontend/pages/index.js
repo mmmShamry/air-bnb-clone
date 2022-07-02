@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <div >
-        <h1>this is the air bnb front end updatfffed </h1>
+        <h1>this is the air bnb front end updatffffed </h1>
     </div>
   )
 }
